@@ -74,12 +74,19 @@ body{
     border-color: rgb(0, 0, 0);
 }
 
-
-.subtitulo{
-    margin-bottom: 10px;
+.title-section {
     text-align: left;
-    align-items: left;
+}
 
+.title-section h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.subtitulo {
+    margin-top: 5px;
+    font-size: 16px;
+    color: #666;
 }
 
 a.links:hover{

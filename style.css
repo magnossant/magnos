@@ -11,6 +11,13 @@ body{
     justify-content: center;
 }
 
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
 .container{
     background: linear-gradient(to bottom, #AEFB2A 0%, #333 35%);
     text-align: center;

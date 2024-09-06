@@ -88,6 +88,10 @@ body{
     color: #ffffff;
 }
 
+p {
+    text-align: left;
+}
+
 a.links:hover{
     transform: scale(1.05);
 }

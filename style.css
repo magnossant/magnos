@@ -21,7 +21,7 @@ body{
 .container{
     background: linear-gradient(to bottom, #AEFB2A 0%, #333 35%);
     text-align: center;
-    border-radius: 40px;
+    border-radius: 70px;
     padding: 20px;
     width: 300px;
     max-width: 80%;
